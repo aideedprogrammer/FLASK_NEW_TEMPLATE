@@ -1,6 +1,6 @@
-# FLASK_NEW_TEMPLATE
+## How to run this project
 
-## Create your new virtualenv.
+### Create your new virtualenv.
 ### Then pip install all depencies in requirements.txt 
  - pip install -r requirements.txt
 ### run code 
