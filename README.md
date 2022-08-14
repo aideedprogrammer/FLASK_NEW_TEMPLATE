@@ -1,0 +1,2 @@
+# FLASK_NEW_TEMPLATE
+-
