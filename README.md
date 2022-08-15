@@ -5,3 +5,5 @@
  - pip install -r requirements.txt
 ### run code 
  - python run.y
+### run testing script
+ - pytest
