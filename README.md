@@ -4,6 +4,6 @@
 ### Then pip install all depencies in requirements.txt 
  - pip install -r requirements.txt
 ### run code 
- - python run.y
+ - python run.py
 ### run testing script
  - pytest
